@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Valantis_test/static/js/main.8974766d.js",
-    "index.html": "/Valantis_test/index.html",
-    "main.8974766d.js.map": "/Valantis_test/static/js/main.8974766d.js.map"
+    "main.js": "/Valantis/static/js/main.8974766d.js",
+    "index.html": "/Valantis/index.html",
+    "main.8974766d.js.map": "/Valantis/static/js/main.8974766d.js.map"
   },
   "entrypoints": [
     "static/js/main.8974766d.js"
