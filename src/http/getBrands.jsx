@@ -9,7 +9,7 @@ export const getBrands = (setBrands) => {
       
       var config = {
         method: 'post',
-        url: 'http://api.valantis.store:40000/',
+        url: process.env.REACT_APP_API_URL,
         headers: { 
           'X-Auth': getPassword(), 
           'Content-Type': 'application/json'
