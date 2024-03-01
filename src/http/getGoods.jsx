@@ -20,7 +20,7 @@ export const getIds = (setGoods, page, setIsLoading, brand, search) => {
   //config request 
   var config = {
     method: 'post',
-    url: process.env.REACT_APP_API_URL,
+    url: "https://api.valantis.store:41000/",
     headers: {
       'X-Auth': getPassword(),
       'Content-Type': 'application/json'
